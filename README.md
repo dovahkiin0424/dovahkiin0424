@@ -1,8 +1,9 @@
-<h1 align="center">I'm doing... literally everithing in IT</h1>
+<h1 align="center">I'm doing... literally everything in IT</h1>
 <h3 align="center"><a href="https://bitlords.hu" target="blank">www.bitlords.hu</a></h3>
 <h3 align="center"><a href="https://zerologdns.com" target="blank">www.zerologdns.com</a></h3>
 
-<img alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
+<br/>
+<img align="center" alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
 
 ### Programming languages
 
@@ -19,20 +20,17 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-D60023?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 &emsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img alt="C" src="https://img.shields.io/badge/Clang-A9BACD?style=for-the-badge&logo=c&logoColor=white"/>
-</a>
-&emsp;
 <a href="https://html.com/">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
+&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 &emsp;
 <a href="https://www.javascript.com/">
     <img alt="JS5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 &emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 </p>
 
@@ -55,7 +53,7 @@
 <a href="https://github.com/dovahkiin0424
 ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovahkiin0424&show_icons=true&locale=en&theme=merko&count_private=true&hide_border=tru&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&theme=merko&layout=compact&hide_border=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&theme=merko&layout=compact&hide_border=true&include_all_commits=true&langs_count=8"/>
 </a>
 </p>
 <br><br>
