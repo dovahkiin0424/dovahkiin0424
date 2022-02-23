@@ -53,7 +53,7 @@
 <a href="https://github.com/dovahkiin0424
 ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovahkiin0424&show_icons=true&locale=en&theme=merko&count_private=true&hide_border=tru&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&theme=merko&layout=compact&hide_border=true&include_all_commits=true&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&theme=merko&layout=compact&hide_border=true&include_all_commits=true&langs_count=8&count_private=true"/>
 </a>
 </p>
 <br><br>
