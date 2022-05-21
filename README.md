@@ -5,9 +5,17 @@
 <br/>
 <img align="center" alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
 
+<br/>
+<p>
+<a href="https://github.com/dovahkiin0424">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovahkiin0424&count_private=true&show_icons=true&locale=en&theme=synthwave&hide_border=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&count_private=true&theme=synthwave&layout=compact&hide_border=true&include_all_commits=true"/>
+</a>
+</p>
+
 ### Programming languages
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://go.dev/">
     <img alt="Go" src="https://img.shields.io/badge/Go-6AD7E5?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
@@ -34,9 +42,9 @@
 </a>
 </p>
 
- ### Software & Tools
+### Software & Tools
  
-<p>
+<p align="center">
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     &emsp;
@@ -48,14 +56,6 @@
     &emsp;
 </p>
 
-### Stats
-<p align="center">
-<a href="https://github.com/dovahkiin0424
-">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovahkiin0424&count_private=true&show_icons=true&locale=en&theme=synthwave&hide_border=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&count_private=true&theme=synthwave&layout=compact&hide_border=true&include_all_commits=true"/>
-</a>
-</p>
 <br><br>
 
 <p align="center">
