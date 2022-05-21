@@ -3,17 +3,20 @@
 <h3 align="center"><a href="https://zerologdns.com" target="blank">www.zerologdns.com</a></h3>
 
 <br/>
-<img align="center" alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
-
-<br/>
-<p>
+<p align="center">
 <a href="https://github.com/dovahkiin0424">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovahkiin0424&count_private=true&show_icons=true&locale=en&theme=synthwave&hide_border=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovahkiin0424&count_private=true&theme=synthwave&layout=compact&hide_border=true&include_all_commits=true"/>
 </a>
 </p>
 
+<p align="center">
+<img alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
+</p>
+
+<p align="center">
 ### Programming languages
+</p>
 
 <p align="center"> 
 <a href="https://go.dev/">
@@ -42,7 +45,9 @@
 </a>
 </p>
 
+<p align="center">
 ### Software & Tools
+</p>
  
 <p align="center">
   &emsp;
