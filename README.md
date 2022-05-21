@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-### Programming languages
+<h2>Programming languages</h2>
 </p>
 
 <p align="center"> 
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-### Software & Tools
+<h2>Software & Tools</h2>
 </p>
  
 <p align="center">
