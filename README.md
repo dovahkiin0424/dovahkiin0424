@@ -14,9 +14,7 @@
 <img alt="Artix Linux" src="https://img.shields.io/badge/Artix%20Linux-1793D1?style=for-the-badge&logo=Artix%20Linux&logoColor=white">
 </p>
 
-<p align="center">
-<h2>Programming languages</h2>
-</p>
+<h2 align="center">Programming languages</h2>
 
 <p align="center"> 
 <a href="https://go.dev/">
@@ -45,9 +43,7 @@
 </a>
 </p>
 
-<p align="center">
-<h2>Software & Tools</h2>
-</p>
+<h2 align="center">Software & Tools</h2>
  
 <p align="center">
   &emsp;
@@ -61,7 +57,7 @@
     &emsp;
 </p>
 
-<br><br>
+<h2 align="center">Contact</h2>
 
 <p align="center">
 <a href="https://twitter.com/dovahkiin0424" target="blank">
