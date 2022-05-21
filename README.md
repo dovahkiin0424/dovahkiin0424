@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://twitter.com/dovahkiin0424" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-00AAEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"/>
+    <img src="https://img.shields.io/badge/Twitter-00AAEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="https://t.me/dovahkiin0424" target="blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
