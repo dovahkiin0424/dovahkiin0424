@@ -25,6 +25,10 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3671A3?style=for-the-badge&logo=python&logoColor=yellow"/>
 </a>
 &emsp;
+<a href="https://www.djangoproject.com/">
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+&emsp;
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-D60023?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -40,7 +44,30 @@
     <img alt="JS5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 &emsp;
+<a href="https://www.nodejs.org/">
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
+&emsp;
+<a href="https://www.vuejs.org/">
+    <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+</a>
+&emsp;
+<a href="https://www.nuxtjs.org/">
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
+</a>
+</a>
+</p>
+
+<h2 align="center">Databases</h2>
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postgress" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="SQLITE" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
 
 <h2 align="center">Software & Tools</h2>
@@ -48,13 +75,17 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    &emsp;
+  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=Vim&logoColor=white"></a>
-    &emsp;
+  &emsp;
+    <a href="#"><img alt="Nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"></a>
+  &emsp;
 </p>
 
 <h2 align="center">Contact</h2>
