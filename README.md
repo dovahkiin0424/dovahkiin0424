@@ -1,6 +1,5 @@
 <h1 align="center">I'm doing... literally everything in IT</h1>
-<h3 align="center"><a href="https://bitlords.hu" target="blank">www.bitlords.hu</a></h3>
-<h3 align="center"><a href="https://zerologdns.com" target="blank">www.zerologdns.com</a></h3>
+<h3 align="center"><a href="https://fxtelekom.org" target="blank">fxtelekom.org</a></h3>
 
 <br/>
 <p align="center">
@@ -29,10 +28,6 @@
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-D60023?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-&emsp;
 <a href="https://html.com/">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
@@ -44,17 +39,6 @@
     <img alt="JS5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 &emsp;
-<a href="https://www.nodejs.org/">
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-&emsp;
-<a href="https://www.vuejs.org/">
-    <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-</a>
-&emsp;
-<a href="https://www.nuxtjs.org/">
-    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-</a>
 </a>
 </p>
 
